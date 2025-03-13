@@ -1,0 +1,30 @@
+.mac-book-air-1,
+.mac-book-air-1 * {
+  box-sizing: border-box;
+}
+.mac-book-air-1 {
+  background: #ffffff;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.main {
+  width: 225px;
+  height: 225px;
+  position: absolute;
+  left: 527px;
+  top: 211px;
+  object-fit: cover;
+}
+.green-heaven {
+  color: #529801;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 516px;
+  top: 450px;
+  width: 248px;
+  height: 52px;
+}

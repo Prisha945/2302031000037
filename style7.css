@@ -1,0 +1,338 @@
+.mac-book-air-6,
+.mac-book-air-6 * {
+  box-sizing: border-box;
+}
+.mac-book-air-6 {
+  background: #498604;
+  height: 1446px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #6aa14b;
+  width: 1280px;
+  height: 113px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.green-heaven {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 14px;
+  top: 51px;
+  width: 207px;
+  height: 37px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 296px;
+  top: 51px;
+  width: 116px;
+  height: 36px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 434px;
+  top: 52px;
+  width: 116px;
+  height: 36px;
+}
+.basics {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 572px;
+  top: 53px;
+  width: 116px;
+  height: 36px;
+}
+.artical {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 710px;
+  top: 54px;
+  width: 116px;
+  height: 36px;
+}
+.contact {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 848px;
+  top: 55px;
+  width: 116px;
+  height: 36px;
+}
+.rectangle-2 {
+  background: #8fc86c;
+  border-radius: 8px;
+  width: 139px;
+  height: 44px;
+  position: absolute;
+  left: 1120px;
+  top: 47px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 1154px;
+  top: 54px;
+  width: 72px;
+  height: 27px;
+}
+.rectangle-4 {
+  background: rgba(106, 161, 75, 0.94);
+  width: 1280px;
+  height: 397px;
+  position: absolute;
+  left: 0px;
+  top: 1051px;
+}
+.green-heaven2 {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 528px;
+  top: 1084px;
+  width: 200px;
+  height: 41px;
+}
+.social {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 27px;
+  top: 1173px;
+  width: 153px;
+  height: 42px;
+}
+.facebook-instragram-youtube {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 24px;
+  top: 1248px;
+}
+.basics-about-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 344px;
+  top: 1248px;
+}
+.quick-links {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 344px;
+  top: 1173px;
+  width: 166px;
+  height: 42px;
+}
+.address {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 723px;
+  top: 1173px;
+  width: 153px;
+  height: 42px;
+}
+.email {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1071px;
+  top: 1173px;
+  width: 153px;
+  height: 42px;
+}
+.plant-ceneter-gota-crossroad-ahemdabad {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 723px;
+  top: 1248px;
+  width: 190px;
+  height: 105px;
+}
+.greenheavenofficial-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 1061px;
+  top: 1250px;
+  width: 195px;
+  height: 32px;
+}
+.image16{
+  width: 553px;
+  height: 326px;
+  position: absolute;
+  left: 637px;
+  top: 179px;
+  object-fit: cover;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 60px;
+  top: 191px;
+}
+.first-name {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 98px;
+  top: 280px;
+}
+.last-name {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 98px;
+  top: 404px;
+}
+.email2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 98px;
+  top: 528px;
+}
+.description {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 98px;
+  top: 652px;
+}
+.rectangle-16 {
+  background: #d9d9d9;
+  border-radius: 15px;
+  width: 468px;
+  height: 47px;
+  position: absolute;
+  left: 98px;
+  top: 328px;
+}
+.rectangle-17 {
+  background: #d9d9d9;
+  border-radius: 15px;
+  width: 468px;
+  height: 47px;
+  position: absolute;
+  left: 98px;
+  top: 457px;
+}
+.rectangle-18 {
+  background: #d9d9d9;
+  border-radius: 15px;
+  width: 468px;
+  height: 47px;
+  position: absolute;
+  left: 98px;
+  top: 586px;
+}
+.rectangle-19 {
+  background: #d9d9d9;
+  border-radius: 15px;
+  width: 909px;
+  height: 194px;
+  position: absolute;
+  left: 98px;
+  top: 715px;
+}
+.rectangle-25 {
+  background: #d5b35e;
+  border-radius: 20px;
+  width: 150px;
+  height: 52px;
+  position: absolute;
+  left: 98px;
+  top: 954px;
+}
+.submit {
+  color: #498604;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 125px;
+  top: 966px;
+  width: 97px;
+  height: 28px;
+}

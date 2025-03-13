@@ -1,0 +1,610 @@
+body{
+    background-color: #f0f0f0;
+}
+.mac-book-air-4,
+.mac-book-air-4 * {
+  box-sizing: border-box;
+}
+.mac-book-air-4 {
+  background: #498604;
+  height: 2843px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #6aa14b;
+  width: 1280px;
+  height: 113px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.green-heaven {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 14px;
+  top: 51px;
+  width: 207px;
+  height: 37px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 296px;
+  top: 51px;
+  width: 116px;
+  height: 36px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 434px;
+  top: 52px;
+  width: 116px;
+  height: 36px;
+}
+.basics {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 572px;
+  top: 53px;
+  width: 116px;
+  height: 36px;
+}
+.artical {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 710px;
+  top: 54px;
+  width: 116px;
+  height: 36px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 848px;
+  top: 55px;
+  width: 116px;
+  height: 36px;
+}
+.rectangle-2 {
+  background: #8fc86c;
+  border-radius: 8px;
+  width: 139px;
+  height: 44px;
+  position: absolute;
+  left: 1120px;
+  top: 47px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 1154px;
+  top: 54px;
+  width: 72px;
+  height: 27px;
+}
+.inoculate {
+  color: #498604;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 56px;
+  top: 1309px;
+  width: 258px;
+  height: 58px;
+}
+.rectangle-4 {
+  background: rgba(106, 161, 75, 0.94);
+  width: 1280px;
+  height: 397px;
+  position: absolute;
+  left: 0px;
+  top: 2446px;
+}
+.green-heaven2 {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 528px;
+  top: 2481px;
+  width: 200px;
+  height: 41px;
+}
+.social {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 27px;
+  top: 2570px;
+  width: 153px;
+  height: 42px;
+}
+.facebook-instragram-youtube {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 24px;
+  top: 2645px;
+}
+.basics-about-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 344px;
+  top: 2645px;
+}
+.quick-links {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 344px;
+  top: 2570px;
+  width: 166px;
+  height: 42px;
+}
+.address {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 723px;
+  top: 2570px;
+  width: 153px;
+  height: 42px;
+}
+.email {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1071px;
+  top: 2570px;
+  width: 153px;
+  height: 42px;
+}
+.plant-ceneter-gota-crossroad-ahemdabad {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 723px;
+  top: 2645px;
+  width: 190px;
+  height: 105px;
+}
+.greenheavenofficial-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 1061px;
+  top: 2647px;
+  width: 195px;
+  height: 32px;
+}
+.image 1{
+  border-radius: 20px;
+  width: 798px;
+  height: 481px;
+  position: absolute;
+  left: 392px;
+  top: 246px;
+  object-fit: cover;
+}
+.rectangle-5 {
+  background: #d5b35e;
+  border-radius: 15px;
+  width: 258px;
+  height: 480px;
+  position: absolute;
+  left: 56px;
+  top: 246px;
+}
+.line-1 {
+  margin-top: -10px;
+  border-style: solid;
+  border-color: #a17609;
+  border-width: 10px 0 0 0;
+  width: 400px;
+  height: 0px;
+  position: absolute;
+  left: 86px;
+  top: 287px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.soil-potting-reporting-fertillizers-grooming-propagation {
+  color: #000000;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 120px;
+  top: 317px;
+  width: 176px;
+  height: 345px;
+}
+.rectangle-6 {
+  background: #d9d9d9;
+  border-radius: 20px;
+  opacity: 0.8;
+  width: 366px;
+  height: 112px;
+  position: absolute;
+  left: 402px;
+  top: 606px;
+}
+.aloe-vera {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 425px;
+  top: 618px;
+}
+.alone-barbadensis {
+  color: #a17609;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 425px;
+  top: 662px;
+}
+.rectangle-7 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 364px;
+  height: 76px;
+  position: absolute;
+  left: 402px;
+  top: 809px;
+}
+.rectangle-11 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 364px;
+  height: 76px;
+  position: absolute;
+  left: 826px;
+  top: 809px;
+}
+.rectangle-12 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 364px;
+  height: 76px;
+  position: absolute;
+  left: 826px;
+  top: 916px;
+}
+.rectangle-13 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 364px;
+  height: 76px;
+  position: absolute;
+  left: 826px;
+  top: 1023px;
+}
+.rectangle-14 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 364px;
+  height: 76px;
+  position: absolute;
+  left: 826px;
+  top: 1130px;
+}
+.rectangle-8 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 364px;
+  height: 76px;
+  position: absolute;
+  left: 402px;
+  top: 916px;
+}
+.rectangle-9 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 364px;
+  height: 76px;
+  position: absolute;
+  left: 402px;
+  top: 1023px;
+}
+.rectangle-10 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 364px;
+  height: 76px;
+  position: absolute;
+  left: 402px;
+  top: 1130px;
+}
+.water-allows-half-of-soil-to-dry-out-before-watering-again {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 420px;
+  top: 825px;
+  width: 327px;
+  height: 60px;
+}
+.tempreature-can-adapt-but-doesn-t-like-sudden-change {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 412px;
+  top: 933px;
+  width: 332px;
+  height: 41px;
+}
+.toxicity-highly-toxic-to-humans-and-pets-if-ingested {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 411px;
+  top: 1038px;
+  width: 322px;
+  height: 46px;
+}
+.leaf-shape-plump-green-or-blue-green-spears {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 412px;
+  top: 1145px;
+  width: 308px;
+  height: 39px;
+}
+.light-bright-indirect-to-direct-light {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 844px;
+  top: 825px;
+  width: 327px;
+  height: 56px;
+}
+.humidity-not-too-concerned-by-humidity-levels {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 844px;
+  top: 933px;
+  width: 327px;
+  height: 56px;
+}
+.size-an-in-betweener-not-too-big-not-too-small {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 844px;
+  top: 1038px;
+  width: 327px;
+  height: 56px;
+}
+.pro-tip-avoid-getting-water-in-between-the-leaves {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 844px;
+  top: 1143px;
+  width: 327px;
+  height: 56px;
+}
+.rectangle-15 {
+  background: rgba(217, 217, 217, 0.56);
+  border-radius: 20px;
+  width: 1184px;
+  height: 90px;
+  position: absolute;
+  left: 48px;
+  top: 1277px;
+}
+.beyond-the-basics {
+  color: #000000;
+  text-align: center;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 459px;
+  top: 1291px;
+}
+.soil-potting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 66px;
+  top: 1457px;
+  width: 226px;
+  height: 38px;
+}
+.repotting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 66px;
+  top: 1646px;
+}
+.fertilizers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 66px;
+  top: 1849px;
+}
+.grooming {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 66px;
+  top: 2052px;
+}
+.propagation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 66px;
+  top: 2218px;
+}
+.thrives-in-an-airy-light-fast-draning-potting-mix-you-can-use-a-good-quality-potting-mix-labeled-for-succulents-cactus-or-supplement-a-standard-indoor-mix-with-an-equal-quantity-of-pumice-or-horticultural-grit-ensure-the-pot-has-the-appropriate-drainage-and-don-t-forget-to-pour-out-any-excess-water-collected-in-the-drainage-tray-or-cachepot {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 1516px;
+  width: 1087px;
+  height: 95px;
+}
+.try-to-repot-every-3-4-years-in-the-spring-especially-when-tending-to-a-younger-plant-increase-the-pot-size-by-about-2-inches-each-time-or-util-you-re-satisfied-with-the-size-it-s-still-important-to-repot-at-this-stage-but-it-ll-be-an-exercise-of-refreshing-the-soil-keeping-the-pot-size-the-same-and-possibly-doing-some-root-trimming-to-restict-the-plant-s-growth {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 1706px;
+  width: 1087px;
+  height: 108px;
+}
+.if-you-re-not-already-planning-to-repot-you-can-fertilize-during-the-spring-and-summer-months-once-to-every-two-months-should-be-plenty-no-fertilizer-is-necessary-during-the-winter-when-plants-growth-naturally-slows-down-you-can-try-a-balanced-liduid-or-water-solible-fertilizer-always-diluted-more-than-the-recommended-strength-a-cactus-and-succulent-specific-feed-would-also-work-well {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 1909px;
+  width: 1087px;
+  height: 108px;
+}
+.alone-prractically-propagate-themselves-you-ll-see-little-mini-alone-offsets-or-pups-popping-up-from-the-soil-near-the-base-of-the-parent-plant-you-ll-want-to-wait-until-the-pup-is-at-least-a-few-inches-in-length-dig-under-and-around-a-little-bit-and-cut-the-pup-out-from-the-soil-making-sure-to-get-some-roots-you-can-then-place-the-pup-in-water-to-develop-stronger-roots-or-pot-up-right-away-if-the-root-system-is-complex-enough {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 2278px;
+  width: 1087px;
+  height: 108px;
+}
+.while-no-specific-pruning-is-required-for-this-plant-it-s-always-good-practice-to-regularly-remove-yellowed-or-dying-leaves-and-any-fallen-plants-debris-ensure-your-scissors-or-pruners-are-sanitized-to-avoid-spreading-disease-or-pests {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 2112px;
+  width: 1087px;
+  height: 71px;
+}

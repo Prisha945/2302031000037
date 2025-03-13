@@ -1,0 +1,407 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #498604;
+    width: 100%;
+  
+}
+.mac-book-air-5,
+.mac-book-air-5 * {
+  box-sizing: border-box;
+}
+.mac-book-air-5 {
+  /* background: #498604; */
+  height: 2544px;
+  width: 100vw;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+    background: #6aa14b;
+    width: 100vw;
+    height: 113px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+.green-heaven {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 14px;
+  top: 51px;
+  width: 207px;
+  height: 37px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 296px;
+  top: 51px;
+  width: 116px;
+  height: 36px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 434px;
+  top: 52px;
+  width: 116px;
+  height: 36px;
+}
+.basics {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 572px;
+  top: 53px;
+  width: 116px;
+  height: 36px;
+}
+.artical {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 710px;
+  top: 54px;
+  width: 116px;
+  height: 36px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 848px;
+  top: 55px;
+  width: 116px;
+  height: 36px;
+}
+.rectangle-2 {
+  background: #8fc86c;
+  border-radius: 8px;
+  width: 139px;
+  height: 44px;
+  position: absolute;
+  left: 1120px;
+  top: 47px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 1154px;
+  top: 54px;
+  width: 72px;
+  height: 27px;
+}
+.rectangle-4 {
+  background: rgba(106, 161, 75, 0.94);
+  width: 100vw;
+  height: 397px;
+  position: absolute;
+  left: 0px;
+  top: 2147px;
+}
+.green-heaven2 {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 528px;
+  top: 2198px;
+  width: 200px;
+  height: 41px;
+}
+.social {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 27px;
+  top: 2287px;
+  width: 153px;
+  height: 42px;
+}
+.facebook-instragram-youtube {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 24px;
+  top: 2362px;
+}
+.basics-about-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 344px;
+  top: 2362px;
+}
+.quick-links {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 344px;
+  top: 2287px;
+  width: 166px;
+  height: 42px;
+}
+.address {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 723px;
+  top: 2287px;
+  width: 153px;
+  height: 42px;
+}
+.email {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1071px;
+  top: 2287px;
+  width: 153px;
+  height: 42px;
+}
+.plant-ceneter-gota-crossroad-ahemdabad {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 723px;
+  top: 2362px;
+  width: 190px;
+  height: 105px;
+}
+.greenheavenofficial-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 1061px;
+  top: 2364px;
+  width: 195px;
+  height: 32px;
+}
+.image15 {
+  border-radius: 20px;
+  width: 845px;
+  height: 335px;
+  position: absolute;
+  left: 392px;
+  top: 246px;
+  object-fit: cover;
+}
+.rectangle-5 {
+  background: #d5b35e;
+  border-radius: 15px;
+  width: 281px;
+  height: 544px;
+  position: absolute;
+  left: 64px;
+  top: 246px;
+}
+.line-1 {
+  margin-top: -10px;
+  border-style: solid;
+  border-color: #a17609;
+  border-width: 10px 0 0 0;
+  width: 464.01px;
+  height: 0px;
+  position: absolute;
+  left: 86px;
+  top: 287px;
+  transform-origin: 0 0;
+  transform: rotate(90.375deg) scale(1, 1);
+}
+.gardening-goals-research-plant-compatibility-consider-seasonal-interest-maintenance-requirements-visit-local-nurseries-conculation {
+  color: #000000;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 118px;
+  top: 301px;
+  width: 213px;
+  height: 450px;
+}
+.tips-to-keep-in-mind-before-choosing-a-plant {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 427px;
+  top: 587px;
+}
+.determine-your-gardening-goals {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 157px;
+  top: 839px;
+  width: 528px;
+  height: 43px;
+}
+.consider-seasonal-interest {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 157px;
+  top: 1091px;
+  width: 434px;
+  height: 40px;
+}
+.pay-attention-to-maintenance-requirements {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 157px;
+  top: 1341px;
+  width: 704px;
+  height: 38px;
+}
+.visit-local-nurseries-and-seek-expert-advice {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 157px;
+  top: 1589px;
+  width: 704px;
+  height: 38px;
+}
+.conclustion {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 157px;
+  top: 1836px;
+  width: 197px;
+  height: 40px;
+}
+.when-selecting-plants-it-s-essential-to-consider-their-compatibility-with-one-another-some-plants-have-specific-requirements-or-emit-substance-that-can-hinder-the-growth-of-neighboring-plants-research-plants-that-complement-each-other-in-terms-of-growth-habits-water-requirements-and-nutrient-needs-companion-planting-where-certain-plants-benefit-from-being-growth-together-can-also-be-a-valuable-strategy-to-promote-healthy-growth-and-repel-pests {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 157px;
+  top: 923px;
+  width: 100vw;
+  height: 126px;
+}
+.creating-a-garden-that-looks-stunning-throughout-the-year-involves-selecting-plants-with-varying-seasonal-interest-look-for-plants-that-offer-attractive-flowers-foliage-or-berries-during-different-times-of-the-year-this-approach-ensures-your-garden-remains-visually-appealing-even-during-colder-months-incorporating-a-mix-of-everge-deures-us-a-per-ernal-pianis-ally-proved-yeavou-during-rest-and-man-in-che-viatingy-of-your-garden {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 157px;
+  top: 1173px;
+  width: 100vw;
+  height: 126px;
+}
+.maintaining-a-garden-can-be-a-joy-or-a-burden-depending-on-the-plants-you-choose-consider-your-available-time-ano-cnerov-ror-carcen-upkeep-some-diants-vecurre-recuiar-pruninc-ccacheadino-or-specitic-care-routines-i-vou-nave-mied-time-or-prerer-iow-maintenance-options-ont-tor-danis-mhat-require-minima-intervention-native-plants-and-those-adapted-to-your-region-s-climate-often-require-less-care-and-are-more-likely-to-thrive {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 157px;
+  top: 1421px;
+  width: 100vw;
+  height: 126px;
+}
+.visiting-local-nurseries-is-an-excellent-way-to-explore-a-wide-variety-of-plants-suited-to-your-region-nurseries-often-have-knowledgeable-staff-who-can-provide-valuable-insights-and-guidance-based-on-your-specific-needs-seek-advice-on-plant-selection-care-instructions-and-suitable-alternatives-if-a-particular-plant-doesn-t-meet-your-requirements-local-experts-can-offer-recommendations-tailored-to-your-garden-s-unique-characteristics {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 157px;
+  top: 1669px;
+  width: 100vw;
+  height: 126px;
+}
+.selecting-the-right-plants-for-your-garden-is-an-exciting-and-crucial-step-in-creating-a-beautiful-outdoor-space-by-assessing-your-garden-s-conditions-considering-your-goals-researching-plant-compatibility-prioritizing-seasonal-interest-and-factoring-in-maintenance-requirements-you-ll-be-well-on-your-way-to-a-thriving-and-visually-appealing-garden-remember-to-seek-expert-advice-from-local-nurseries-and-enjoy-the-journey-of-curating-your-dream-garden {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 157px;
+  top: 1918px;
+  width: 100vw;
+  height: 126px;
+}

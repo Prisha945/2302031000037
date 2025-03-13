@@ -1,0 +1,357 @@
+.mac-book-air-7,
+.mac-book-air-7 * {
+  box-sizing: border-box;
+}
+.mac-book-air-7 {
+  background: #498604;
+  height: 1492px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #6aa14b;
+  width: 1280px;
+  height: 113px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+}
+.green-heaven {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 14px;
+  top: 51px;
+  width: 207px;
+  height: 37px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 296px;
+  top: 51px;
+  width: 116px;
+  height: 36px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 434px;
+  top: 52px;
+  width: 116px;
+  height: 36px;
+}
+.basics {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 572px;
+  top: 53px;
+  width: 116px;
+  height: 36px;
+}
+.artical {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 710px;
+  top: 54px;
+  width: 116px;
+  height: 36px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 848px;
+  top: 55px;
+  width: 116px;
+  height: 36px;
+}
+.rectangle-2 {
+  background: #8fc86c;
+  border-radius: 8px;
+  width: 139px;
+  height: 44px;
+  position: absolute;
+  left: 1120px;
+  top: 47px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 1154px;
+  top: 54px;
+  width: 72px;
+  height: 27px;
+}
+.rectangle-4 {
+  background: rgba(106, 161, 75, 0.94);
+  width: 1280px;
+  height: 397px;
+  position: absolute;
+  left: 0px;
+  top: 1095px;
+}
+.image17 {
+  width: 322px;
+  height: 368px;
+  position: absolute;
+  left: 146px;
+  top: 213px;
+  object-fit: cover;
+}
+.become-a-member {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 562px;
+  top: 213px;
+}
+.first-name {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 610px;
+  top: 281px;
+}
+.last-name {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 611px;
+  top: 414px;
+}
+.email {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 612px;
+  top: 547px;
+}
+.phone-number {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 610px;
+  top: 680px;
+}
+.descreption {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 610px;
+  top: 816px;
+}
+.rectangle-20 {
+  background: #d9d9d9;
+  border-radius: 15px;
+  width: 468px;
+  height: 47px;
+  position: absolute;
+  left: 610px;
+  top: 331px;
+}
+.rectangle-21 {
+  background: #d9d9d9;
+  border-radius: 15px;
+  width: 468px;
+  height: 47px;
+  position: absolute;
+  left: 611px;
+  top: 464px;
+}
+.rectangle-22 {
+  background: #d9d9d9;
+  border-radius: 15px;
+  width: 468px;
+  height: 47px;
+  position: absolute;
+  left: 612px;
+  top: 597px;
+}
+.rectangle-23 {
+  background: #d9d9d9;
+  border-radius: 15px;
+  width: 468px;
+  height: 47px;
+  position: absolute;
+  left: 614px;
+  top: 737px;
+}
+.rectangle-24 {
+  background: #d9d9d9;
+  border-radius: 15px;
+  width: 559px;
+  height: 120px;
+  position: absolute;
+  left: 610px;
+  top: 870px;
+}
+.green-heaven2 {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 536px;
+  top: 1127px;
+  width: 200px;
+  height: 41px;
+}
+.social {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 35px;
+  top: 1216px;
+  width: 153px;
+  height: 42px;
+}
+.facebook-instragram-youtube {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 32px;
+  top: 1291px;
+}
+.basics-about-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 352px;
+  top: 1291px;
+}
+.quick-links {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 352px;
+  top: 1216px;
+  width: 166px;
+  height: 42px;
+}
+.address {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 731px;
+  top: 1216px;
+  width: 153px;
+  height: 42px;
+}
+.email2 {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1079px;
+  top: 1216px;
+  width: 153px;
+  height: 42px;
+}
+.plant-ceneter-gota-crossroad-ahemdabad {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 731px;
+  top: 1291px;
+  width: 190px;
+  height: 105px;
+}
+.greenheavenofficial-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 1069px;
+  top: 1293px;
+  width: 195px;
+  height: 32px;
+}
+.rectangle-26 {
+  background: #d5b35e;
+  border-radius: 20px;
+  width: 150px;
+  height: 52px;
+  position: absolute;
+  left: 611px;
+  top: 1019px;
+}
+.submit {
+  color: #498604;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 639px;
+  top: 1031px;
+  width: 97px;
+  height: 28px;
+}

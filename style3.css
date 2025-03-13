@@ -1,0 +1,443 @@
+body{
+  background-color:transparent;
+}
+.mac-book-air-2,
+.mac-book-air-2 * {
+  box-sizing: border-box;
+}
+.mac-book-air-2 {
+  background: #ffffff;
+  height: 2546px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #6aa14b;
+  width: 100vw;
+  height: 113px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.green-heaven {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 14px;
+  top: 51px;
+  width: 207px;
+  height: 37px;
+}
+.image1 {
+  width: 1280px;
+  height: 721px;
+  position: absolute;
+  left: 0px;
+  top: 113px;
+  object-fit: cover;
+}
+.home {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 296px;
+  top: 51px;
+  width: 116px;
+  height: 36px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 434px;
+  top: 52px;
+  width: 116px;
+  height: 36px;
+}
+.basics {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 572px;
+  top: 53px;
+  width: 116px;
+  height: 36px;
+}
+.artical {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 710px;
+  top: 54px;
+  width: 116px;
+  height: 36px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 848px;
+  top: 55px;
+  width: 116px;
+  height: 36px;
+}
+.rectangle-2 {
+  background: #8fc86c;
+  border-radius: 8px;
+  width: 139px;
+  height: 44px;
+  position: absolute;
+  left: 1120px;
+  top: 47px;
+}
+.rectangle-3 {
+  background: #8fc86c;
+  border-radius: 8px;
+  width: 139px;
+  height: 44px;
+  position: absolute;
+  left: 570px;
+  top: 452px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 1154px;
+  top: 54px;
+  width: 72px;
+  height: 27px;
+}
+.we-love-to-helping-you-to-save-the-earth {
+  color: #498604;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 324px;
+  top: 234px;
+}
+.we-help-realize-you-dreams-in-making-a-garden-let-s-start-with-small-things-that-can-change-the-world-so-you-can-enjoy-the-fresh-air-forever {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 355px;
+  top: 329px;
+  width: 569px;
+  height: 100px;
+}
+.join-now {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 587px;
+  top: 458px;
+  width: 106px;
+  height: 31px;
+}
+.steps-to-start-your-plants-off-right {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 293px;
+  top: 918px;
+}
+.page2 {
+  width: 289px;
+  height: 169px;
+  position: absolute;
+  left: 25px;
+  top: 1090px;
+  object-fit: cover;
+}
+.page3 {
+  width: 289px;
+  height: 169px;
+  position: absolute;
+  left: 495px;
+  top: 1090px;
+  object-fit: cover;
+}
+.page4 {
+  width: 289px;
+  height: 169px;
+  position: absolute;
+  left: 965px;
+  top: 1074px;
+  object-fit: cover;
+}
+.inoculate {
+  color: #498604;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 56px;
+  top: 1309px;
+  width: 258px;
+  height: 58px;
+}
+.sow-the-seeds {
+  color: #498604;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 526px;
+  top: 1309px;
+  width: 258px;
+  height: 58px;
+}
+.put-in-pots {
+  color: #498604;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 996px;
+  top: 1309px;
+  width: 258px;
+  height: 58px;
+}
+.coating-the-seed-with-bacteria-that-allow-it-to-fix-nitorgen-soil {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 33px;
+  top: 1378px;
+  width: 339px;
+  height: 61px;
+}
+.coating-the-seed-with-bacteria-that-allow-it-to-fix-nitorgen-soil2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 484px;
+  top: 1378px;
+  width: 339px;
+  height: 61px;
+}
+.coating-the-seed-with-bacteria-that-allow-it-to-fix-nitorgen-soil3 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 915px;
+  top: 1378px;
+  width: 339px;
+  height: 61px;
+}
+.page5 {
+  width: 431px;
+  height: 272px;
+  position: absolute;
+  left: 826px;
+  top: 1479px;
+  object-fit: cover;
+}
+.join-with-us-to-explore-the-nature-s-palette {
+  color: #498604;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 33px;
+  top: 1512px;
+}
+.join-us-on-a-journey-to-explore-nature-s-platee-where-every-leaf-tells-a-story-and-every-blossom-whispers-of-possibility-whether-you-re-a-seasoned-gardener-of-a-curious-enthusiat-our-passion-of-plants-will-inspire-and-delight-you-let-s-cultivate-a-greenner-world-together {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 36px;
+  top: 1569px;
+  width: 773px;
+  height: 236px;
+}
+.page6 {
+  width: 312px;
+  height: 280px;
+  position: absolute;
+  left: 36px;
+  top: 1805px;
+  object-fit: cover;
+}
+.grow-with-love {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 568px;
+  top: 1849px;
+}
+.where-every-sproutis-nurtured-with-cares-cultivating-not-just-greenery-but-a-bond-with-nature-join-our-community-and-watch-your-love-for-plants-blossom-into-a-thriving-garden-of-joy-and-serenity {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 568px;
+  top: 1906px;
+  width: 634px;
+  height: 154px;
+}
+.rectangle-4 {
+  background: #6aa14b;
+  width: 1280px;
+  height: 397px;
+  position: absolute;
+  left: 0px;
+  top: 2149px;
+}
+.green-heaven2 {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 540px;
+  top: 2184px;
+  width: 200px;
+  height: 41px;
+}
+.social {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 39px;
+  top: 2273px;
+  width: 153px;
+  height: 42px;
+}
+.facebook-instragram-youtube {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 36px;
+  top: 2348px;
+}
+.basics-about-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 356px;
+  top: 2348px;
+}
+.quick-links {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 356px;
+  top: 2273px;
+  width: 166px;
+  height: 42px;
+}
+.address {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 735px;
+  top: 2273px;
+  width: 153px;
+  height: 42px;
+}
+.email {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1083px;
+  top: 2273px;
+  width: 153px;
+  height: 42px;
+}
+.plant-ceneter-gota-crossroad-ahemdabad {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 735px;
+  top: 2348px;
+  width: 190px;
+  height: 105px;
+}
+.greenheavenofficial-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 1073px;
+  top: 2350px;
+  width: 195px;
+  height: 32px;
+}

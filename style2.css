@@ -1,0 +1,247 @@
+.mac-book-air-8,
+.mac-book-air-8 * {
+  box-sizing: border-box;
+}
+.mac-book-air-8 {
+  background: #ffffff;
+  height: 1452px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-5 {
+  background: #6aa14b;
+  width: 1280px;
+  height: 113px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.green-heaven {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 14px;
+  top: 51px;
+  width: 207px;
+  height: 37px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 296px;
+  top: 51px;
+  width: 116px;
+  height: 36px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 434px;
+  top: 52px;
+  width: 116px;
+  height: 36px;
+}
+.basics {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 572px;
+  top: 53px;
+  width: 116px;
+  height: 36px;
+}
+.artical {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 710px;
+  top: 54px;
+  width: 116px;
+  height: 36px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 848px;
+  top: 55px;
+  width: 116px;
+  height: 36px;
+}
+.rectangle-6 {
+  background: #8fc86c;
+  border-radius: 8px;
+  width: 139px;
+  height: 44px;
+  position: absolute;
+  left: 1120px;
+  top: 47px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 1154px;
+  top: 54px;
+  width: 72px;
+  height: 27px;
+}
+.what-we-do {
+  color: #a17609;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 535px;
+  top: 198px;
+}
+.we-re-your-go-to-guide-for-customized-care-expert-advice-and-plant-identification {
+  color: #498604;
+  text-align: center;
+  font-family: "CrimsonText-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 340px;
+  top: 265px;
+  width: 662px;
+  height: 98px;
+}
+.image2{
+  border-radius: 5px;
+  width: 206px;
+  height: 292px;
+  position: absolute;
+  left: 148px;
+  top: 417px;
+  object-fit: cover;
+}
+.image3{
+  border-radius: 5px;
+  width: 206px;
+  height: 292px;
+  position: absolute;
+  left: 957px;
+  top: 709px;
+  object-fit: cover;
+}
+.plant-care {
+  color: #a17609;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 442px;
+  top: 466px;
+}
+.plant-identification {
+  color: #a17609;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 442px;
+  top: 747px;
+}
+.plant-identification2 {
+  color: #a17609;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 442px;
+  top: 1053px;
+}
+.we-help-you-to-manage-your-plants-effortless-to-keep-them-thriving {
+  color: #000000;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 442px;
+  top: 532px;
+  width: 333px;
+  height: 67px;
+}
+.it-lets-user-s-snap-photo-to-instantly-recognize-plant-species-offering-care-instruction-growth-insights {
+  color: #000000;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 442px;
+  top: 836px;
+  width: 333px;
+  height: 92px;
+}
+.we-offer-a-space-for-plant-lovers-to-discuss-care-strategies-troubleshoot-issues-and-inspire-each-other {
+  color: #000000;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 442px;
+  top: 1119px;
+  width: 333px;
+  height: 78px;
+}
+.image1 {
+  border-radius: 5px;
+  width: 206px;
+  height: 292px;
+  position: absolute;
+  left: 148px;
+  top: 1001px;
+  object-fit: cover;
+}
+.rectangle-27 {
+  background: #6aa14b;
+  border-radius: 20px;
+  width: 286px;
+  height: 63px;
+  position: absolute;
+  left: 471px;
+  top: 1346px;
+}
+.explore-more {
+  color: #000000;
+  text-align: center;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 518px;
+  top: 1359px;
+  width: 191px;
+  height: 38px;
+}

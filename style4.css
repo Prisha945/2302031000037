@@ -1,0 +1,354 @@
+.mac-book-air-3,
+.mac-book-air-3 * {
+  box-sizing: border-box;
+}
+.mac-book-air-3 {
+  background: #498604;
+  height: 2546px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #6aa14b;
+  width: 1280px;
+  height: 113px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.green-heaven {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 14px;
+  top: 51px;
+  width: 207px;
+  height: 37px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 296px;
+  top: 51px;
+  width: 116px;
+  height: 36px;
+}
+.about {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 434px;
+  top: 51px;
+  width: 116px;
+  height: 36px;
+}
+.basics {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 572px;
+  top: 53px;
+  width: 116px;
+  height: 36px;
+}
+.artical {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 710px;
+  top: 54px;
+  width: 116px;
+  height: 36px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 848px;
+  top: 55px;
+  width: 116px;
+  height: 36px;
+}
+.rectangle-2 {
+  background: #8fc86c;
+  border-radius: 8px;
+  width: 139px;
+  height: 44px;
+  position: absolute;
+  left: 1120px;
+  top: 47px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 1154px;
+  top: 54px;
+  width: 72px;
+  height: 27px;
+}
+.rectangle-4 {
+  background: rgba(106, 161, 75, 0.94);
+  width: 1280px;
+  height: 397px;
+  position: absolute;
+  left: 0px;
+  top: 2149px;
+}
+.green-heaven2 {
+  color: #d5b35e;
+  text-align: left;
+  font-family: "CrimsonText-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 540px;
+  top: 2184px;
+  width: 200px;
+  height: 41px;
+}
+.social {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 39px;
+  top: 2273px;
+  width: 153px;
+  height: 42px;
+}
+.facebook-instragram-youtube {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 36px;
+  top: 2348px;
+}
+.basics-about-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 356px;
+  top: 2348px;
+}
+.quick-links {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 356px;
+  top: 2273px;
+  width: 166px;
+  height: 42px;
+}
+.address {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 735px;
+  top: 2273px;
+  width: 153px;
+  height: 42px;
+}
+.email {
+  color: #498604;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1083px;
+  top: 2273px;
+  width: 153px;
+  height: 42px;
+}
+.plant-ceneter-gota-crossroad-ahemdabad {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 735px;
+  top: 2348px;
+  width: 190px;
+  height: 105px;
+}
+.greenheavenofficial-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 1073px;
+  top: 2350px;
+  width: 195px;
+  height: 32px;
+}
+.image1 {
+  width: 1280px;
+  height: 552px;
+  position: absolute;
+  left: 0px;
+  top: 113px;
+  object-fit: cover;
+}
+.about-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 514px;
+  top: 299px;
+  width: 281px;
+  height: 64px;
+}
+.welcome-t-plantie-where-passion-for-plants-meets-a-vibrate-community-of-nature-enthusiasts-at-plantie-we-re-a-thriving-hub-for-anyone-looking-to-add-a-touch-of-green-to-their-life-ourjourney-began-with-a-simple-idea-to-make-plant-care-accessible-and-enjoyable-for-everyone {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 51px;
+  top: 384px;
+  width: 1208px;
+  height: 110px;
+}
+.image2 {
+  border-radius: 10px;
+  width: 206px;
+  height: 304px;
+  position: absolute;
+  left: 74px;
+  top: 745px;
+  object-fit: cover;
+}
+.image3 {
+  border-radius: 10px;
+  width: 191px;
+  height: 228px;
+  position: absolute;
+  left: 292px;
+  top: 745px;
+  object-fit: cover;
+}
+.image4 {
+  border-radius: 10px;
+  width: 189px;
+  height: 229px;
+  position: absolute;
+  left: 293px;
+  top: 989px;
+  object-fit: cover;
+}
+.our-mission {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 654px;
+  top: 804px;
+  width: 259px;
+  height: 71px;
+}
+.we-aim-to-inspire-and-educate-plant-lovers-by-providing-the-best-resources-expert-advice-and-top-quality-plants-we-beleve-that-nurturing-plants-is-not-only-a-rewarding-hobby-but-also-a-way-to-enhance-your-well-being-and-connect-with-nature {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: var(--headline-small-line-height, 32px);
+  font-weight: 400;
+  position: absolute;
+  left: 667px;
+  top: 897px;
+  width: 601px;
+  height: 152px;
+}
+.our-vision {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 177px;
+  top: 1402px;
+  width: 221px;
+  height: 64px;
+}
+.we-aim-to-inspire-and-educate-plant-lovers-by-providing-the-best-resources-expert-advice-and-top-quality-plants-we-beleve-that-nurturing-plants-is-not-only-a-rewarding-hobby-but-also-a-way-to-enhance-your-well-being-and-connect-with-nature2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 177px;
+  top: 1504px;
+  width: 771px;
+  height: 111px;
+}
+.our-story {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 177px;
+  top: 1690px;
+}
+.monisha-and-reyas-a-couples-passionate-about-nature-started-a-business-called-green-heaven-treasures-in-te-small-town-of-green-valley-inspired-by-the-beuty-of-fall-foliage-they-developed-unique-methods-to-preserve-leaves-maintaining-their-colors-and-shapes-beginning-with-sales-at-local-markets-their-high-quality-preserved-leaves-and-coustom-arrangements-gained-popularity-they-expanded-their-offering-to-include-online-sales-and-leaf-preservation-services-for-sentimental-keepsakes-leafy-treasure-became-a-beloved-brand-inspiring-other-to-appreciate-nature-s-simple-wonders-reyas-excitement-growing-in-his-eyes-and-we-could-services-like-leaf-preservation-and-custom-leaf-arrangements-for-events-and-home-decor {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 177px;
+  top: 1776px;
+  width: 985px;
+  height: 263px;
+}
